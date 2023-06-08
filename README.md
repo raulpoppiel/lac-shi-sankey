@@ -2,6 +2,7 @@
 
 <iframe width="900" height="1100" frameborder="0" scrolling="no" src="//plotly.com/~raulpoppiel/3.embed"></iframe>
 
+
 Areas were calculated using the following shapefiles:
 * Countries: https://geonode.state.gov/layers/catalog:geonode:LSIB
 * Biomes: https://ecoregions.appspot.com/
