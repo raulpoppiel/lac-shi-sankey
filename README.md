@@ -2,7 +2,7 @@
 
 The width of the flows in the diagram represents the area (km2) distribution of SHI classes (center) among biomes (left side) and countries (right side) in LAC.
   
-<iframe width="900" height="1100" frameborder="0" scrolling="no" src="//plotly.com/~raulpoppiel/3.embed"></iframe>
+<iframe width="1000" height="1100" frameborder="0" scrolling="no" src="//plotly.com/~raulpoppiel/3.embed"></iframe>
 
 Areas were calculated using the following shapefiles:
 * Countries: https://geonode.state.gov/layers/catalog:geonode:LSIB
