@@ -6,4 +6,5 @@
 Areas were calculated using the following shapefiles:
 * Countries: https://geonode.state.gov/layers/catalog:geonode:LSIB
 * Biomes: https://ecoregions.appspot.com/
+
 OBS: It is true that when using shapefiles from different sources, there is a possibility of variation in the calculated areas due to differences in boundary definitions.
